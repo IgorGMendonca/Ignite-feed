@@ -10,7 +10,7 @@ Um feed de comentários bem legal, utilizando React e TypeScript! <br/>
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/IgorGMendonca/Finance-Sceen/blob/main/assets/Sem%20t%C3%ADtulo.jpg">
+  <img alt="License" src="https://github.com/IgorGMendonca/Ignite-feed/blob/main/project1.jpg">
 </p>
 
 <br>
