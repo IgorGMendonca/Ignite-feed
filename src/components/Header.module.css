@@ -1,0 +1,18 @@
+.header {
+    background: var(--gray-card);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    padding: 1.25rem 0;
+}
+
+.header strong {
+    font-size: 1.5rem;
+}
+
+.header img {
+    /* 2rem = 32px */
+    height: 2rem;
+    margin-right: 15px;
+}
